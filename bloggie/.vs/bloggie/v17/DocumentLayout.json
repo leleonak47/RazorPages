@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|c:\\users\\pc puto\\desktop\\desenvolvimento\\cursos razor pages\\bloggie\\bloggie.web\\pages\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|solutionrelative:bloggie.web\\pages\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|c:\\users\\pc puto\\desktop\\desenvolvimento\\cursos razor pages\\bloggie\\bloggie.web\\pages\\blog\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|solutionrelative:bloggie.web\\pages\\blog\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|c:\\users\\pc puto\\desktop\\desenvolvimento\\cursos razor pages\\bloggie\\bloggie.web\\controllers\\blogpostlikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|solutionrelative:bloggie.web\\controllers\\blogpostlikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|c:\\users\\pc puto\\desktop\\desenvolvimento\\cursos razor pages\\bloggie\\bloggie.web\\repositories\\iblogpostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|solutionrelative:bloggie.web\\repositories\\iblogpostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|c:\\users\\pc puto\\desktop\\desenvolvimento\\cursos razor pages\\bloggie\\bloggie.web\\repositories\\blogpostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0FC96B-0646-4657-B15C-8E433592A299}|bloggie.web\\bloggie.web.csproj|solutionrelative:bloggie.web\\repositories\\blogpostlikerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\Pages\\Blog\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "bloggie.web\\Pages\\Blog\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\Pages\\Blog\\Details.cshtml.cs",
+              "RelativeToolTip": "bloggie.web\\Pages\\Blog\\Details.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:03:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\repositories\\BlogPostLikeRepository.cs",
+              "RelativeDocumentMoniker": "bloggie.web\\repositories\\BlogPostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\repositories\\BlogPostLikeRepository.cs",
+              "RelativeToolTip": "bloggie.web\\repositories\\BlogPostLikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:01:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBlogPostLikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\repositories\\IBlogPostLikeRepository.cs",
+              "RelativeDocumentMoniker": "bloggie.web\\repositories\\IBlogPostLikeRepository.cs",
+              "ToolTip": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\repositories\\IBlogPostLikeRepository.cs",
+              "RelativeToolTip": "bloggie.web\\repositories\\IBlogPostLikeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:00:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPostLikeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\Controllers\\BlogPostLikeController.cs",
+              "RelativeDocumentMoniker": "bloggie.web\\Controllers\\BlogPostLikeController.cs",
+              "ToolTip": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\Controllers\\BlogPostLikeController.cs",
+              "RelativeToolTip": "bloggie.web\\Controllers\\BlogPostLikeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T21:38:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\Pages\\Blog\\Details.cshtml",
+              "RelativeDocumentMoniker": "bloggie.web\\Pages\\Blog\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC Puto\\Desktop\\Desenvolvimento\\Cursos razor pages\\bloggie\\bloggie.web\\Pages\\Blog\\Details.cshtml",
+              "RelativeToolTip": "bloggie.web\\Pages\\Blog\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T21:03:52.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
